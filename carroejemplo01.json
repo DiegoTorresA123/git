@@ -1,0 +1,10 @@
+{
+  "carro": {
+    "Placa": "ABC123",
+    "NumeroDeSerie": "1234567890",
+    "Modelo": "2022",
+    "Marca": "Toyota",
+    "Kilometraje": 50000,
+    "Tipo": "Sedán"
+  }
+}

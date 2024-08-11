@@ -1,0 +1,44 @@
+
+[
+  {
+    "Placa": "ABC123",
+    "NumeroDeSerie": "1234567890",
+    "Modelo": "2022",
+    "Marca": "Toyota",
+    "Kilometraje": 50000,
+    "Tipo": "Sedán"
+  },
+  {
+    "Placa": "DEF456",
+    "NumeroDeSerie": "0987654321",
+    "Modelo": "2020",
+    "Marca": "Honda",
+    "Kilometraje": 30000,
+    "Tipo": "SUV"
+  },
+  {
+    "Placa": "GHI789",
+    "NumeroDeSerie": "1357924680",
+    "Modelo": "2019",
+    "Marca": "Ford",
+    "Kilometraje": 40000,
+    "Tipo": "Camioneta"
+  },
+  {
+    "Placa": "JKL012",
+    "NumeroDeSerie": "2468013579",
+    "Modelo": "2021",
+    "Marca": "Chevrolet",
+    "Kilometraje": 25000,
+    "Tipo": "Hatchback"
+  },
+  {
+    "Placa": "MNO345",
+    "NumeroDeSerie": "9876543210",
+    "Modelo": "2018",
+    "Marca": "Volkswagen",
+    "Kilometraje": 60000,
+    "Tipo": "Familiar"
+  }
+]
+
